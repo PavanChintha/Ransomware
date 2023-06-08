@@ -1,2 +1,2 @@
 # Ransomware
-Encryption, Decryption  and ML based Solution for Ransomware Attack .
+Encryption, Decryption and ML based Solution for Ransomware Attack .
